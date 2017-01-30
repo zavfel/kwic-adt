@@ -1,7 +1,7 @@
 # CS3219 Assignment 1 Report: Keyword in Context (KWIC) - ADT
 
-Code Repository URL:
-[ADT design](https://github.com/zavfel/kwic-adt)
+Code Repository URL:  
+[ADT design](https://github.com/zavfel/kwic-adt)  
 [Pipe and Filter design](https://github.com/kfwong/cs3219-kwic)
 
 Author: Chew Zhi Jiang (A0124797R)
