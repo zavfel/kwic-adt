@@ -54,7 +54,7 @@ of its data and that its hidden from other instances.
 
 *(Figure 4 - Module Diagram)*
 
-![Module-diagram](https://github.com/zavfel/kwic-adt/png/Module_diagram.png)
+<img src="/png/Module_diagram.png" width="600"> 
 
 This Architecture consists of 5 main modules: 
 **Input**, **Characters**, **CircularShift**, **AlphabeticShift** and **Output**. 
@@ -62,7 +62,7 @@ Each module interact with each other through function calls without knowing how 
 The algorithm and data structure can be changed inside each module without it affecting other modules.
 
 *(Figure 5 - ADT Class Diagram)*
-![class-diagram](https://github.com/zavfel/kwic-adt/png/adt_class_diagram.png)
+<img src="/png/adt_class_diagram.png" width="650">
 
 **ADTMaster** acts as a main control that control the sequencing of other modules.
 
